@@ -1,0 +1,18 @@
+{
+  "name": "lockscreen",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "child_process": "^1.0.2",
+    "face-api.js": "^0.22.2",
+    "node-webcam": "^0.8.2"
+  }
+}
